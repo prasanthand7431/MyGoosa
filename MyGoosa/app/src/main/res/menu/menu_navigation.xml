@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/account"
+        android:icon="@mipmap/ic_launcher"
+        android:title="My Account"/>
+
+    <item android:id="@+id/settings"
+        android:icon="@mipmap/search_white_18dp"
+        android:title="Settings"/>
+    <item android:id="@+id/mycart"
+        android:icon="@mipmap/shopping_cart_white_18dp"
+        android:title="My Cart"/>
+
+</menu>
